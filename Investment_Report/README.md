@@ -13,4 +13,6 @@ The program uses a simplified form of compound interest
 
 The proposed user interface is shown
 
+<img src="https://github.com/blrk/18CS2068-Python-Programming-Batch4/blob/master/Investment_Report/ci-op.png"></img>
 
+Sample skeleton of the program <a href="">click here </a>
