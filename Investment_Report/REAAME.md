@@ -10,3 +10,7 @@ The inputs to this program are the following:
 The program uses a simplified form of compound interest
 
 <img src="https://github.com/blrk/18CS2068-Python-Programming-Batch4/blob/master/Investment_Report/ci.png"></img> 
+
+The proposed user interface is shown
+
+
