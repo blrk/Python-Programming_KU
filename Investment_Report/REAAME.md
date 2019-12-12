@@ -8,4 +8,5 @@ The inputs to this program are the following:
 <li>An interest rate (a percentage expressed as an integer)</li>
 
 The program uses a simplified form of compound interest
-<img src="https://github.com/blrk/18CS2068-Python-Programming-Batch4/blob/master/Investment_Report/ci.png"/> 
+
+<img src="https://github.com/blrk/18CS2068-Python-Programming-Batch4/blob/master/Investment_Report/ci.png"></img> 
