@@ -5,6 +5,8 @@ Perform the following tasks using while loop
 <pre>
 random.randint(1,6)
 </pre>
+<li> The factorial of an integer N is the product of all of the integers between 1 and N, inclusive. Write a while loop that computes the factorial of a given integer N </li>
+
 
 
 
